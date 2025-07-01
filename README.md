@@ -42,9 +42,9 @@
 <!--[![Daoud's github stats](https://github-readme-stats.vercel.app/api?username=daoud-hussain&count_private=true&title_color=ffffff&icon_color=2234AE&text_color=F0E68C&bg_color=ffffff,000000,130F40&hide_border=true&show_icons=true)](https://github.com/Daoud-Hussain) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daoud-hussain&count_private=true&&title_color=ffffff&icon_color=2234AE&text_color=F0E68C&bg_color=0,000000,130F40&hide_border=true&show_icons=true&layout=compact&langs_count=8)](https://github.com/Daoud-Hussain) !-->
 
 <div>
-<a href="https://github.com/Daoud-Hussain">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=daoud-hussain&title_color=ffffff&icon_color=2234AE&text_color=F0E68C&bg_color=ffffff,000000,130F40&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daoud-hussain&layout=compact&langs_count=7&title_color=ffffff&icon_color=2234AE&text_color=F0E68C&bg_color=ffffff,000000,130F40&hide_border=true&show_icons=true"/>
+<a href="https://github.com/that-prod-guy">
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=that-prod-guy&title_color=ffffff&icon_color=2234AE&text_color=F0E68C&bg_color=ffffff,000000,130F40&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=that-prod-guy&layout=compact&langs_count=7&title_color=ffffff&icon_color=2234AE&text_color=F0E68C&bg_color=ffffff,000000,130F40&hide_border=true&show_icons=true"/>
 </div>
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F0E68C&width=500&lines=These+are+my+GitHub+stats..">
 
@@ -128,5 +128,5 @@
 
 Want to achieve **zero downtime**, **faster** deployments, **auto-scaling**, enhanced **reliability** in your infrastructure, and an **improved** software development life cycle? Drop me an email at <a href="mailto:daoudhussaindevops@gmail.com">daoudhussaindevops@gmail.com</a>. 
 <!--Profile view counter API!-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Daoud-Hussain&label=Profile%20views&color=0e75b6&style=flat" alt="Daoud-Hussain" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=that-prod-guy&label=Profile%20views&color=0e75b6&style=flat" alt="Daoud-Hussain" /> </p>
 <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=0e75b6&width=500&lines=Drop+a+text+to+hire+for+any+project...">     -->
