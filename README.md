@@ -1,6 +1,6 @@
 <!--About myself!-->
 <div align="center" >  
-<!-- <img  src="Images/cover-photo.png" > </div>  </br> </a> -->
+<img  src="Images/cover-photo.png" > </div>  </br> </a>
 <div align="center" >  
   <h1> Hello World
  <img src="Images/shake-hand.gif" width="35px"> </h1>
