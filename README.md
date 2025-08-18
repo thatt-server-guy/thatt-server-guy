@@ -15,7 +15,7 @@
 <!--• 👨‍💻 I'm currently working on <b>DevOps</b> and automating workflows.<br> -->
 • 👨‍🏫 I’m a <b>Open-Source contributer</b> and a <b>Programming Assistant</b>. <br>
 • 🌱 I’m available for <b>Full time work </b>(Onsite or Freelance). <br>
-• 📄 Dowload my <a href="https://drive.google.com/file/d/1SquAGNIyd7PbwpsOHuFmY182Llweajci/view?usp=sharing" target="_blank"><b>Resume</b></a> for hiring purposes. <br>
+• 📄 Dowload my <a href="https://drive.google.com/file/d/1wraOws-2fcNaFg7WD75THOieZKjiRfPr/view?usp=sharing" target="_blank"><b>Resume</b></a> for hiring purposes. <br>
 
 </div>
 
