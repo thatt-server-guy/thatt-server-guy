@@ -7,7 +7,7 @@
 </div>
 
 <div align="left" >
-<img align="right" height="250" width="285" src="Images/coding-boy.gif" > <br>
+<img align="right"  height="270" width="280" src="Images/coding-boy.gif" > <br>
 
 I'm <a href="https://daoudhussain.netlify.app/" target="_blank"><b>Daoud-Hussain</b></a>. A **DevOps & Cloud Engineer** at <a href="https://vizzwebsolutions.com/" target="_blank"><b>Vizz Web Solutions</b></a> with **2+ years** of experience in **cloud infrastructure, automation, and scalable deployments**. I enjoy solving real-world problems by ensuring applications are **reliable, cost-efficient, and production-ready** across multiple environments (dev, staging, prod).  
 
