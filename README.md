@@ -2,8 +2,8 @@
 <div align="center" >  
 <!-- <img  src="Images/cover-photo.png" > </div>  </br> </a> -->
 <div align="center" >  
-  <h2> Hello World 
- <img src="Images/shake-hand.gif" width="35px"> </h2>
+  <h1> Hello World 
+ <img src="Images/shake-hand.gif" width="35px"> </h1>
 </div>
 
 <div align="left" >
