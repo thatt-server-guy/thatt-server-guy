@@ -1,28 +1,39 @@
 <!--About myself!-->
 <div align="center" >  
-<img  src="Images/cover-photo.png" > </div>  </br> </a>
+<!-- <img  src="Images/cover-photo.png" > </div>  </br> </a> -->
 <div align="center" >  
-  <h1> Hello World
- <img src="Images/shake-hand.gif" width="35px"> </h1>
+  <h2> Hello World 
+ <img src="Images/shake-hand.gif" width="35px"> </h2>
 </div>
 
 <div align="left" >
 <img align="right" height="250" width="285" src="Images/coding-boy.gif" > <br>
-• 👨‍🎓 I’m <a href="https://daoudhussain.netlify.app/" target="_blank"><b>Daoud-Hussain</b></a>.<br>
+<!-- • 👨‍🎓 I’m <a href="https://daoudhussain.netlify.app/" target="_blank"><b>Daoud-Hussain</b></a>.<br>
 • 💻 I'm a <b> Computer Science </b> graduate from <a href="https://www.comsats.edu.pk/"><b>Comsats University Islamabad</b></a>.<br>
 • 👨‍💻 I’m working as a <b> DevOps and Cloud Engineer</b> at <a href="https://vizzwebsolutions.com/" target="_blank"><b>Vizz Web Solutions</b></a>.<br>
 • ✍ I write about Cloud and DevOps on <a href="https://medium.com/@dev.daoudhussain" target="_blank"><b>Medium</b></a>. <br>
 <!--• 👨‍💻 I'm currently working on <b>DevOps</b> and automating workflows.<br> -->
-• 👨‍🏫 I’m a <b>Open-Source contributer</b> and a <b>Programming Assistant</b>. <br>
-• 🌱 I’m available for <b>Full time work </b>(Onsite or Freelance). <br>
-• 📄 Dowload my <a href="https://drive.google.com/file/d/1wraOws-2fcNaFg7WD75THOieZKjiRfPr/view?usp=sharing" target="_blank"><b>Resume</b></a> for hiring purposes. <br>
+<!-- • 👨‍🏫 I’m a <b>Open-Source contributer</b> and a <b>Programming Assistant</b>. <br>
+<!-- • 🌱 I’m available for <b>Full time work </b>(Onsite or Freelance). <br> --> 
+<!-- • 💬 Ask me about Python, Cloud Architecture, DevOps, and System design <br>
+• 📄 Dowload my <a href="https://daoudhussain.netlify.app/Daoud's%20DevOps%20Resume.pdf" target="_blank"><b>Resume</b></a> for hiring purposes. <br> --> 
+
+
+I'm <a href="https://daoudhussain.netlify.app/" target="_blank"><b>Daoud-Hussain</b></a>. A **DevOps & Cloud Engineer** at <a href="https://vizzwebsolutions.com/" target="_blank"><b>Vizz Web Solutions</b></a> with **2+ years** of experience in **cloud infrastructure, automation, and scalable deployments**. I enjoy solving real-world problems by ensuring applications are **reliable, cost-efficient, and production-ready** across multiple environments (dev, staging, prod).  
+
+- 🔭 Currently working on **server migrations**, **multi-cloud deployments (AWS, GCP, Azure, Hetzner, Contabo)**, and **zero-downtime CI/CD pipelines**. 
+- 🌱 Always learning about **cloud-native technologies**, **infrastructure as code**, and **container orchestration**. 
+- 👯 Open to collaborating on **cloud projects**, **automation**, and **open-source contributions**. 
+- 💬 Ask me about **python, cloud architecture, DevOps, infrastructure automation, and system design**  
+- ⚡ **Fun fact**: I love discussing about **cricket** and creating complex **System Designs** ensuring zero-downtime.  
+- 📄 Want to **automate your SDLC** and design a **scalable system**? Dowload my <a href="https://daoudhussain.netlify.app/Daoud's%20DevOps%20Resume.pdf" target="_blank"><b>Resume</b></a> here.
 
 </div>
 
 ##
 
 <!--Social Media Links!-->
-<div>
+<div align="left">
 <h3> • <img src="Images/shakehand.gif" width="32">  <b> Lets Connect! </b> </h3> <br>
 <a href = "https://www.instagram.com/daoud_huxxain/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.linkedin.com/in/daoud-hussain/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -36,22 +47,32 @@
 
 ##
 
+
+<div align="left">
+  
 <!--Github stats!-->
   <p> • <img src="Images/github-stats.gif" width="20">  <b>  My GitHub Stats! </b> </p> <br>
 
 <!--[![Daoud's github stats](https://github-readme-stats.vercel.app/api?username=daoud-hussain&count_private=true&title_color=ffffff&icon_color=2234AE&text_color=F0E68C&bg_color=ffffff,000000,130F40&hide_border=true&show_icons=true)](https://github.com/Daoud-Hussain) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daoud-hussain&count_private=true&&title_color=ffffff&icon_color=2234AE&text_color=F0E68C&bg_color=0,000000,130F40&hide_border=true&show_icons=true&layout=compact&langs_count=8)](https://github.com/Daoud-Hussain) !-->
 
-<div>
 <a href="https://github.com/thatt-server-guy">
   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=thatt-server-guy&title_color=ffffff&icon_color=2234AE&text_color=F0E68C&bg_color=ffffff,000000,130F40&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatt-server-guy&layout=compact&langs_count=7&title_color=ffffff&icon_color=2234AE&text_color=F0E68C&bg_color=ffffff,000000,130F40&hide_border=true&show_icons=true"/>
 </div>
+
+  <div align="left">
+    
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F0E68C&width=500&lines=These+are+my+GitHub+stats..">
+
+</div>
 
 ##
 
+<div align="left">
   <!--Used Languages and tools!-->
 <h3> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px>Tools and Languages </h3>
+
+  <div align="left">
 <!-- <div style="display: inline_block">  <br>  
   <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
@@ -99,12 +120,19 @@
 <!--   <img src="https://www.vectorlogo.zone/logos/graphiteapp/graphiteapp-icon.svg" alt="graphite" title="graphite" width="40" height="40"/>  -->
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" title="grafana" width="35" height="35"/>
 
+
 </p>
+
+<div align="left">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=61DBFB&width=500&lines=These+are+the+tools+that+I+am+working+with..">
 
+</div>
+
 #
 
+<div align="left">
+  
 ### ✍ Recent Medium Blogs
 
 <!-- MEDIUM-Blogs -->
@@ -113,8 +141,13 @@
 - [Monitoring with Grafana, Promtail, and Loki: A Complete Guide.](https://medium.com/@dev.daoudhussain/monitoring-with-grafana-promtail-and-loki-a-complete-guide-7a3284ca6fdc)
 - [From Zero to K8s Hero: A Beginner’s Journey into Kubernetes](https://medium.com/@dev.daoudhussain/from-zero-to-k8s-hero-a-beginners-journey-into-kubernetes-038b65c4c8f7)
 
+</div>
+
 # 
 
+
+<div align="left">
+  
 ### 🎗 Certifications
 
 <!-- Certifications -->
@@ -130,3 +163,4 @@ Want to achieve **zero downtime**, **faster** deployments, **auto-scaling**, enh
 <!--Profile view counter API!-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thatt-server-guy&label=Profile%20views&color=0e75b6&style=flat" alt="Daoud-Hussain" /> </p>
 <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=0e75b6&width=500&lines=Drop+a+text+to+hire+for+any+project...">     -->
+</div>
