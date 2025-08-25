@@ -9,13 +9,13 @@
 <div align="left" >
 <img align="right"  height="270" width="280" src="Images/coding-boy.gif" > <br>
 
-I'm <a href="https://daoudhussain.netlify.app/" target="_blank"><b>Daoud-Hussain</b></a>. A **DevOps & Cloud Engineer** at <a href="https://vizzwebsolutions.com/" target="_blank"><b>Vizz Web Solutions</b></a> with **2+ years** of experience in **cloud infrastructure, automation, and scalable deployments**. I enjoy solving real-world problems by ensuring applications are **reliable, cost-efficient, and production-ready** across multiple environments (dev, staging, prod).  
+I'm <a href="https://daoudhussain.netlify.app/" target="_blank"><b>Daoud-Hussain</b></a>. A **DevOps** & **Cloud Engineer** at <a href="https://vizzwebsolutions.com/" target="_blank"><b>Vizz Web Solutions</b></a> with **2+ years** of experience in **cloud infrastructure**, **automation**, and **scalable** deployments. I enjoy solving real-world problems by ensuring applications are **reliable**, **cost-efficient**, and **production-ready** across multiple environments (dev, staging, prod).  
 
-- 🔭 Currently working on **server migrations**, **multi-cloud deployments (AWS, GCP, Azure, Hetzner, Contabo)**, and **zero-downtime CI/CD pipelines**. 
-- 🌱 Always learning about **cloud-native technologies**, **infrastructure as code**, and **container orchestration**. 
-- 👯 Open to collaborating on **cloud projects**, **automation**, and **open-source contributions**. 
-- 💬 Ask me about **python, cloud architecture, DevOps, infrastructure automation, and system design**  
-- ⚡ **Fun fact**: I love discussing about **cricket** and creating complex **System Designs** ensuring zero-downtime.  
+- 🔭 Currently working on **server migrations**, **multi-cloud deployments (AWS, GCP, Azure, Hetzner, Contabo)**, and **zero-downtime** deployments. 
+- 🌱 Always passionate about **cloud-native technologies**, **infrastructure as code**, and **container orchestration**. 
+- 👯 Open to collaborating on **cloud projects**, **automation**, **community work** and **open-source contributions**. 
+- 💬 Ask me about **python, cloud architecture, DevOps, infrastructure automation**, and **system design**.  
+- ⚡ **Fun fact**: I love discussing about **cricket** and creating complex **system Designs** ensuring **zero-downtime**.  
 - 📄 Want to **automate your SDLC** and design a **scalable system**? Dowload my <a href="https://daoudhussain.netlify.app/Daoud's%20DevOps%20Resume.pdf" target="_blank"><b>Resume</b></a> here.
 
 </div>
@@ -60,7 +60,7 @@ I'm <a href="https://daoudhussain.netlify.app/" target="_blank"><b>Daoud-Hussain
 
 <div align="left">
   <!--Used Languages and tools!-->
-<h3> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px>Tools and Languages </h3>
+<h3> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> Tools and Languages </h3>
 
   <div align="left">
 
@@ -96,7 +96,7 @@ I'm <a href="https://daoudhussain.netlify.app/" target="_blank"><b>Daoud-Hussain
 
 <div align="left">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=61DBFB&width=500&lines=These+are+the+tools+that+I+am+working+with..">
+<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=0969da&width=500&lines=These+are+the+tools+and+technologies+that+I+am+working+with..">
 
 </div>
 
@@ -122,7 +122,7 @@ I'm <a href="https://daoudhussain.netlify.app/" target="_blank"><b>Daoud-Hussain
 ### 🎗 Certifications
 
 <!-- Certifications -->
-- [AWS Cloud Practioner](https://drive.google.com/file/d/17zGyPucuvXKp20daomoBKQctIAKQXjyj/view)
+- [AWS Cloud Practitioner](https://drive.google.com/file/d/17zGyPucuvXKp20daomoBKQctIAKQXjyj/view)
 - [Advanced Testing Practices Using AWS DevOps Tools](https://drive.google.com/file/d/15kU_TZbLn5QtW3PWvERmr4lWuuUEb2fU/view)
 - [Getting-Started-with-DevOps-Using-AWS](https://drive.google.com/file/d/1T5Jf2_VLu1YlvIyiC7jdalP04v2WnxPs/view)
 - [IEEE Best Programmer of the month (Python)](https://drive.google.com/file/d/1Wv2Yf75C7GCJmbAprGYp_CdtGbsrc7ZJ/view?usp=sharing)
