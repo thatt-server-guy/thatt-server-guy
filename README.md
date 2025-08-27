@@ -139,6 +139,6 @@ I'm <a href="https://daoudhussain.netlify.app/" target="_blank"><b>Daoud-Hussain
 
 Want to achieve **zero downtime**, **faster** deployments, **auto-scaling**, enhanced **reliability** in your infrastructure, and an **improved** software development life cycle? Drop me an email at <a href="mailto:daoudhussaindevops@gmail.com">daoudhussaindevops@gmail.com</a>. 
 <!--Profile view counter API!-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thatt-server-guy&label=Profile%20views&color=0e75b6&style=flat" alt="Daoud-Hussain" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thatt-server-guy&label=Profile%20views&color=0969da&style=flat" alt="Daoud-Hussain" /> </p>
 <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=0e75b6&width=500&lines=Drop+a+text+to+hire+for+any+project...">     -->
 </div>
